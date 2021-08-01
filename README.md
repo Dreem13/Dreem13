@@ -6,7 +6,7 @@ I study in Yandex.Practikum at the faculty of web development.
 Some projects in my repository were completed as part of training.
 I want to work in a strong team of professionals and develop in web development. 
 
-Languages and Tools:
+#### I code with:
 
 ![HTML](https://img.shields.io/badge/-HTML-pink?style=flat-square&logo=html)
 ![CSS](https://img.shields.io/badge/-CSS-green?style=flat-square&logo=CSS)
