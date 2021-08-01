@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm  👋
 
 ### I'm beginner frontend developer 😄
 
@@ -14,13 +14,16 @@ I want to work in a strong team of professionals and develop in web development.
 ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=React)
 ![Node.js](https://img.shields.io/badge/-Node.js-yellow?style=flat-square&logo=Node.js)
 
-#### Write me
+#### Ask me about anuthing:
 
 [![Telegram](https://img.shields.io/badge/-Telegram-gray?style=flat-square&logo=Telegram)](https://t.me/larionovdmitry)
 [![VK](https://img.shields.io/badge/-VK-gray?style=flat-square&logo=VK)](https://vk.com/d.larionoff)
 [![Instagram](https://img.shields.io/badge/-Instagram-gray?style=flat-square&logo=Instagram)](https://www.instagram.com/dlarionof/)
 
 [![Dreem's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dreem13)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dreem13)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
