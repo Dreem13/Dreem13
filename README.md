@@ -14,7 +14,9 @@ I want to work in a strong team of professionals and develop in web development.
 ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=React)
 ![Node.js](https://img.shields.io/badge/-Node.js-yellow?style=flat-square&logo=Node.js)
 
-Follow me
+#### Write me
+
+![Telegram](https://img.shields.io/badge/-Telegram-gray?style=flat-square&logo=Telegram)(https://t.me/larionovdmitry)
 
 <!--
 **Dreem13/Dreem13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
