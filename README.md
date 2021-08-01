@@ -8,7 +8,7 @@ I want to work in a strong team of professionals and develop in web development.
 
 Languages and Tools:
 
-![HTML](https://img.shields.io/badge/-HTML-pink)
+![HTML](https://img.shields.io/badge/-HTML-pink?style=flat-square&logo=html)
 ![CSS](https://img.shields.io/badge/-CSS-green)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-red)
 ![React](https://img.shields.io/badge/-React-blue)
