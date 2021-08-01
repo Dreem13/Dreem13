@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-Header
-
-About me
+I'm beginner frontend developer 😄
 
 Languages and Tools
+![https://img.shields.io/badge/-<HTML>-<pink>]
 
 Follow me
 
