@@ -12,7 +12,7 @@ Languages and Tools:
 ![CSS](https://img.shields.io/badge/-CSS-green?style=flat-square&logo=CSS)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-red?style=flat-square&logo=JavaScript)
 ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=React)
-![Node.js](https://img.shields.io/badge/-Node.js-tomato?style=flat-square&logo=Node.js)
+![Node.js](https://img.shields.io/badge/-Node.js-yellow?style=flat-square&logo=Node.js)
 
 Follow me
 
