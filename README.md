@@ -1,6 +1,7 @@
-### Hi there 👋
+## Hi there 👋
 
-# I'm beginner frontend developer 😄
+### I'm beginner frontend developer 😄
+
 I study in Yandex.Practikum at the faculty of web development.
 Some projects in my repository were completed as part of training.
 I want to work in a strong team of professionals and develop in web development. 
