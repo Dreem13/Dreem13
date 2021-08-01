@@ -2,9 +2,13 @@
 
 I'm beginner frontend developer 😄
 
-Languages and Tools
+Languages and Tools:
 
 ![HTML](https://img.shields.io/badge/-<HTML>-<pink>)
+![CSS](https://img.shields.io/badge/-<CSS>-<green>)
+![JavaScript](https://img.shields.io/badge/-<JS>-<red>)
+![React](https://img.shields.io/badge/-<React>-<blue>)
+![Node.js](https://img.shields.io/badge/-<Node.js>-<tomato>)
 
 Follow me
 
