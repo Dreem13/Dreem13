@@ -17,6 +17,9 @@ I want to work in a strong team of professionals and develop in web development.
 #### Write me
 
 [![Telegram](https://img.shields.io/badge/-Telegram-gray?style=flat-square&logo=Telegram)](https://t.me/larionovdmitry)
+[![VK](https://img.shields.io/badge/-VK-gray?style=flat-square&logo=VK)](https://vk.com/d.larionoff)
+[![Instagram](https://img.shields.io/badge/-Instagram-gray?style=flat-square&logo=Instagram)](https://www.instagram.com/dlarionof/)
+
 
 <!--
 **Dreem13/Dreem13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
