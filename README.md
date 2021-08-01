@@ -1,4 +1,4 @@
-## Hi there, I'm  👋
+## Yo!  👋
 
 ### I'm beginner frontend developer 😄
 
