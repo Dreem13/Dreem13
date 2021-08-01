@@ -9,10 +9,10 @@ I want to work in a strong team of professionals and develop in web development.
 Languages and Tools:
 
 ![HTML](https://img.shields.io/badge/-HTML-pink?style=flat-square&logo=html)
-![CSS](https://img.shields.io/badge/-CSS-green)
-![JavaScript](https://img.shields.io/badge/-JavaScript-red)
-![React](https://img.shields.io/badge/-React-blue)
-![Node.js](https://img.shields.io/badge/-Node.js-tomato)
+![CSS](https://img.shields.io/badge/-CSS-green?style=flat-square&logo=CSS)
+![JavaScript](https://img.shields.io/badge/-JavaScript-red?style=flat-square&logo=JavaScript)
+![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=React)
+![Node.js](https://img.shields.io/badge/-Node.js-tomato?style=flat-square&logo=Node.js)
 
 Follow me
 
